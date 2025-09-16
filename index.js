@@ -8,8 +8,8 @@ import dotenv from 'dotenv';
 
 import Book from './models/Book.js';// .js is Manadatory
 
-import { v2 as cloudinary } from 'cloudinary';
-import multer from 'multer';
+//import { v2 as cloudinary } from 'cloudinary';
+//import multer from 'multer';
 
 
 
