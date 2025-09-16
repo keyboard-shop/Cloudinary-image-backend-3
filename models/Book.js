@@ -15,7 +15,7 @@ export default Book;
 // 4444444 works ========================================
 
 
-// it works ======================
+// it works, only image ======================
 // import mongoose from 'mongoose';
 // const bookSchema = new mongoose.Schema({
 //   imageUrl: { type: String, required: true },
